@@ -12,16 +12,16 @@
 
 > <font size= "4"><b> Get Tweet </font></b>
 
-    Merupakan fitur untuk menampilkan seluruh tweet yang telah dibuat oleh sebuah akun.
+    Untuk menampilkasn semua tweet dalam akun.
 
 > <font size= "4"><b> Post Tweet </font></b>
 
-    Merupakan fitur untuk menambah tweet.
+    Untuk menambah tweet baru.
 
 > <font size= "4"><b> Delete Tweet </font></b>
 
-    Merupakan fitur untuk menghapus sebuah tweet dengan ketentuan email(pengirim) dan tweet sudah pernah dibuat.
+    Untuk menghapus sebuah tweet.
 
 > <font size= "4"><b> Put Tweet </font></b>
 
-    Merupakan fitur untuk mengubah tweet, dengan ketentuan email(pengirim) benar, tweet sudah pernah dibuat, kemudian kita memasukkan tweet baru.
+    Untuk mengubah tweet yang sudah pernah kita buat
